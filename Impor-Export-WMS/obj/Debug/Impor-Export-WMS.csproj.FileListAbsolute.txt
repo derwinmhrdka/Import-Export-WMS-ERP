@@ -1,0 +1,11 @@
+F:\Practice WMS Integration\repos\Impor-Export-WMS\Impor-Export-WMS\bin\Debug\Impor-Export-WMS.exe.config
+F:\Practice WMS Integration\repos\Impor-Export-WMS\Impor-Export-WMS\bin\Debug\Impor-Export-WMS.exe
+F:\Practice WMS Integration\repos\Impor-Export-WMS\Impor-Export-WMS\bin\Debug\Impor-Export-WMS.pdb
+F:\Practice WMS Integration\repos\Impor-Export-WMS\Impor-Export-WMS\obj\Debug\Impor-Export-WMS.csproj.AssemblyReference.cache
+F:\Practice WMS Integration\repos\Impor-Export-WMS\Impor-Export-WMS\obj\Debug\Impor-Export-WMS.csproj.SuggestedBindingRedirects.cache
+F:\Practice WMS Integration\repos\Impor-Export-WMS\Impor-Export-WMS\obj\Debug\Impor_Export_WMS.Form1.resources
+F:\Practice WMS Integration\repos\Impor-Export-WMS\Impor-Export-WMS\obj\Debug\Impor_Export_WMS.Properties.Resources.resources
+F:\Practice WMS Integration\repos\Impor-Export-WMS\Impor-Export-WMS\obj\Debug\Impor-Export-WMS.csproj.GenerateResource.cache
+F:\Practice WMS Integration\repos\Impor-Export-WMS\Impor-Export-WMS\obj\Debug\Impor-Export-WMS.csproj.CoreCompileInputs.cache
+F:\Practice WMS Integration\repos\Impor-Export-WMS\Impor-Export-WMS\obj\Debug\Impor-Export-WMS.exe
+F:\Practice WMS Integration\repos\Impor-Export-WMS\Impor-Export-WMS\obj\Debug\Impor-Export-WMS.pdb
